@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chentt/CLionProjects/Leetcode/84_deleteDuplicates_II.cpp
+iostream
+-
+List.h
+/Users/chentt/CLionProjects/Leetcode/List.h
+
+/Users/chentt/CLionProjects/Leetcode/List.h
+
