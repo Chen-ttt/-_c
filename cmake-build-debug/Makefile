@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/42_rainWater.o: Stack/42_rainWater.cpp.o
+Stack/84_largestRectangleArea.o: Stack/84_largestRectangleArea.cpp.o
 
-.PHONY : Stack/42_rainWater.o
+.PHONY : Stack/84_largestRectangleArea.o
 
 # target to build an object file
-Stack/42_rainWater.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.o
-.PHONY : Stack/42_rainWater.cpp.o
+Stack/84_largestRectangleArea.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.o
+.PHONY : Stack/84_largestRectangleArea.cpp.o
 
-Stack/42_rainWater.i: Stack/42_rainWater.cpp.i
+Stack/84_largestRectangleArea.i: Stack/84_largestRectangleArea.cpp.i
 
-.PHONY : Stack/42_rainWater.i
+.PHONY : Stack/84_largestRectangleArea.i
 
 # target to preprocess a source file
-Stack/42_rainWater.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.i
-.PHONY : Stack/42_rainWater.cpp.i
+Stack/84_largestRectangleArea.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.i
+.PHONY : Stack/84_largestRectangleArea.cpp.i
 
-Stack/42_rainWater.s: Stack/42_rainWater.cpp.s
+Stack/84_largestRectangleArea.s: Stack/84_largestRectangleArea.cpp.s
 
-.PHONY : Stack/42_rainWater.s
+.PHONY : Stack/84_largestRectangleArea.s
 
 # target to generate assembly for a file
-Stack/42_rainWater.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.s
-.PHONY : Stack/42_rainWater.cpp.s
+Stack/84_largestRectangleArea.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.s
+.PHONY : Stack/84_largestRectangleArea.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/42_rainWater.o"
-	@echo "... Stack/42_rainWater.i"
-	@echo "... Stack/42_rainWater.s"
+	@echo "... Stack/84_largestRectangleArea.o"
+	@echo "... Stack/84_largestRectangleArea.i"
+	@echo "... Stack/84_largestRectangleArea.s"
 .PHONY : help
 
 

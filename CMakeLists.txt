@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode Stack/42_rainWater.cpp)
+add_executable(Leetcode Stack/84_largestRectangleArea.cpp)
