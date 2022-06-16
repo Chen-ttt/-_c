@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/20_validParentheses_II.o: Stack/20_validParentheses_II.cpp.o
+Stack/42_rainWater.o: Stack/42_rainWater.cpp.o
 
-.PHONY : Stack/20_validParentheses_II.o
+.PHONY : Stack/42_rainWater.o
 
 # target to build an object file
-Stack/20_validParentheses_II.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.o
-.PHONY : Stack/20_validParentheses_II.cpp.o
+Stack/42_rainWater.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.o
+.PHONY : Stack/42_rainWater.cpp.o
 
-Stack/20_validParentheses_II.i: Stack/20_validParentheses_II.cpp.i
+Stack/42_rainWater.i: Stack/42_rainWater.cpp.i
 
-.PHONY : Stack/20_validParentheses_II.i
+.PHONY : Stack/42_rainWater.i
 
 # target to preprocess a source file
-Stack/20_validParentheses_II.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.i
-.PHONY : Stack/20_validParentheses_II.cpp.i
+Stack/42_rainWater.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.i
+.PHONY : Stack/42_rainWater.cpp.i
 
-Stack/20_validParentheses_II.s: Stack/20_validParentheses_II.cpp.s
+Stack/42_rainWater.s: Stack/42_rainWater.cpp.s
 
-.PHONY : Stack/20_validParentheses_II.s
+.PHONY : Stack/42_rainWater.s
 
 # target to generate assembly for a file
-Stack/20_validParentheses_II.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.s
-.PHONY : Stack/20_validParentheses_II.cpp.s
+Stack/42_rainWater.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/42_rainWater.cpp.s
+.PHONY : Stack/42_rainWater.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/20_validParentheses_II.o"
-	@echo "... Stack/20_validParentheses_II.i"
-	@echo "... Stack/20_validParentheses_II.s"
+	@echo "... Stack/42_rainWater.o"
+	@echo "... Stack/42_rainWater.i"
+	@echo "... Stack/42_rainWater.s"
 .PHONY : help
 
 
