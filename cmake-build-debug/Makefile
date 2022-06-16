@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/20.o: Stack/20.cpp.o
+Stack/20_validParentheses_II.o: Stack/20_validParentheses_II.cpp.o
 
-.PHONY : Stack/20.o
+.PHONY : Stack/20_validParentheses_II.o
 
 # target to build an object file
-Stack/20.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.o
-.PHONY : Stack/20.cpp.o
+Stack/20_validParentheses_II.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.o
+.PHONY : Stack/20_validParentheses_II.cpp.o
 
-Stack/20.i: Stack/20.cpp.i
+Stack/20_validParentheses_II.i: Stack/20_validParentheses_II.cpp.i
 
-.PHONY : Stack/20.i
+.PHONY : Stack/20_validParentheses_II.i
 
 # target to preprocess a source file
-Stack/20.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.i
-.PHONY : Stack/20.cpp.i
+Stack/20_validParentheses_II.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.i
+.PHONY : Stack/20_validParentheses_II.cpp.i
 
-Stack/20.s: Stack/20.cpp.s
+Stack/20_validParentheses_II.s: Stack/20_validParentheses_II.cpp.s
 
-.PHONY : Stack/20.s
+.PHONY : Stack/20_validParentheses_II.s
 
 # target to generate assembly for a file
-Stack/20.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.s
-.PHONY : Stack/20.cpp.s
+Stack/20_validParentheses_II.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.s
+.PHONY : Stack/20_validParentheses_II.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/20.o"
-	@echo "... Stack/20.i"
-	@echo "... Stack/20.s"
+	@echo "... Stack/20_validParentheses_II.o"
+	@echo "... Stack/20_validParentheses_II.i"
+	@echo "... Stack/20_validParentheses_II.s"
 .PHONY : help
 
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/Stack/20.cpp
+/Users/chentt/CLionProjects/Leetcode/Stack/20_validParentheses_II.cpp
 iostream
 -
 stack.h

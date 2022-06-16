@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode.dir/Stack/20.cpp.o"
+  "CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.o"
   "Leetcode"
   "Leetcode.pdb"
 )
