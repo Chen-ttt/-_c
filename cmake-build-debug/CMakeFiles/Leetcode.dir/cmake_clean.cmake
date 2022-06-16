@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode.dir/84_deleteDuplicates_II.cpp.o"
+  "CMakeFiles/Leetcode.dir/Stack/20.cpp.o"
   "Leetcode"
   "Leetcode.pdb"
 )

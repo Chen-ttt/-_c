@@ -2,9 +2,6 @@
 #include "List.h"
 
 struct ListNode* deleteDuplicates(struct ListNode* head){
-    // check empty link list
-    // if(!head) return head;
-
     // set dummy node to avoid head node is duplicate
     struct ListNode *dummy = (ListNode*)malloc(sizeof(struct ListNode));
     dummy->next = head;

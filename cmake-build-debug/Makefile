@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-84_deleteDuplicates_II.o: 84_deleteDuplicates_II.cpp.o
+Stack/20.o: Stack/20.cpp.o
 
-.PHONY : 84_deleteDuplicates_II.o
+.PHONY : Stack/20.o
 
 # target to build an object file
-84_deleteDuplicates_II.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/84_deleteDuplicates_II.cpp.o
-.PHONY : 84_deleteDuplicates_II.cpp.o
+Stack/20.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.o
+.PHONY : Stack/20.cpp.o
 
-84_deleteDuplicates_II.i: 84_deleteDuplicates_II.cpp.i
+Stack/20.i: Stack/20.cpp.i
 
-.PHONY : 84_deleteDuplicates_II.i
+.PHONY : Stack/20.i
 
 # target to preprocess a source file
-84_deleteDuplicates_II.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/84_deleteDuplicates_II.cpp.i
-.PHONY : 84_deleteDuplicates_II.cpp.i
+Stack/20.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.i
+.PHONY : Stack/20.cpp.i
 
-84_deleteDuplicates_II.s: 84_deleteDuplicates_II.cpp.s
+Stack/20.s: Stack/20.cpp.s
 
-.PHONY : 84_deleteDuplicates_II.s
+.PHONY : Stack/20.s
 
 # target to generate assembly for a file
-84_deleteDuplicates_II.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/84_deleteDuplicates_II.cpp.s
-.PHONY : 84_deleteDuplicates_II.cpp.s
+Stack/20.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20.cpp.s
+.PHONY : Stack/20.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... 84_deleteDuplicates_II.o"
-	@echo "... 84_deleteDuplicates_II.i"
-	@echo "... 84_deleteDuplicates_II.s"
+	@echo "... Stack/20.o"
+	@echo "... Stack/20.i"
+	@echo "... Stack/20.s"
 .PHONY : help
 
 

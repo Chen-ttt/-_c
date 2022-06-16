@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/84_deleteDuplicates_II.cpp
+/Users/chentt/CLionProjects/Leetcode/Stack/20.cpp
 iostream
 -
-List.h
-/Users/chentt/CLionProjects/Leetcode/List.h
+stack.h
+/Users/chentt/CLionProjects/Leetcode/Stack/stack.h
 
-/Users/chentt/CLionProjects/Leetcode/List.h
+/Users/chentt/CLionProjects/Leetcode/Stack/stack.h
 
