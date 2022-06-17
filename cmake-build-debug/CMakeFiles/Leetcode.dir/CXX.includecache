@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/Stack/84_largestRectangleArea.cpp
+/Users/chentt/CLionProjects/Leetcode/Stack/739_dailyTemperatures.cpp
 iostream
 -
 stack.h

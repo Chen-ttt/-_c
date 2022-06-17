@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.o"
+  "CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.o"
   "Leetcode"
   "Leetcode.pdb"
 )

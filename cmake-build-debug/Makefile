@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/84_largestRectangleArea.o: Stack/84_largestRectangleArea.cpp.o
+Stack/739_dailyTemperatures.o: Stack/739_dailyTemperatures.cpp.o
 
-.PHONY : Stack/84_largestRectangleArea.o
+.PHONY : Stack/739_dailyTemperatures.o
 
 # target to build an object file
-Stack/84_largestRectangleArea.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.o
-.PHONY : Stack/84_largestRectangleArea.cpp.o
+Stack/739_dailyTemperatures.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.o
+.PHONY : Stack/739_dailyTemperatures.cpp.o
 
-Stack/84_largestRectangleArea.i: Stack/84_largestRectangleArea.cpp.i
+Stack/739_dailyTemperatures.i: Stack/739_dailyTemperatures.cpp.i
 
-.PHONY : Stack/84_largestRectangleArea.i
+.PHONY : Stack/739_dailyTemperatures.i
 
 # target to preprocess a source file
-Stack/84_largestRectangleArea.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.i
-.PHONY : Stack/84_largestRectangleArea.cpp.i
+Stack/739_dailyTemperatures.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.i
+.PHONY : Stack/739_dailyTemperatures.cpp.i
 
-Stack/84_largestRectangleArea.s: Stack/84_largestRectangleArea.cpp.s
+Stack/739_dailyTemperatures.s: Stack/739_dailyTemperatures.cpp.s
 
-.PHONY : Stack/84_largestRectangleArea.s
+.PHONY : Stack/739_dailyTemperatures.s
 
 # target to generate assembly for a file
-Stack/84_largestRectangleArea.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/84_largestRectangleArea.cpp.s
-.PHONY : Stack/84_largestRectangleArea.cpp.s
+Stack/739_dailyTemperatures.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.s
+.PHONY : Stack/739_dailyTemperatures.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/84_largestRectangleArea.o"
-	@echo "... Stack/84_largestRectangleArea.i"
-	@echo "... Stack/84_largestRectangleArea.s"
+	@echo "... Stack/739_dailyTemperatures.o"
+	@echo "... Stack/739_dailyTemperatures.i"
+	@echo "... Stack/739_dailyTemperatures.s"
 .PHONY : help
 
 
