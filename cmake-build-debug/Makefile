@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/739_dailyTemperatures.o: Stack/739_dailyTemperatures.cpp.o
+Queue/239_maxSlidingWindow.o: Queue/239_maxSlidingWindow.cpp.o
 
-.PHONY : Stack/739_dailyTemperatures.o
+.PHONY : Queue/239_maxSlidingWindow.o
 
 # target to build an object file
-Stack/739_dailyTemperatures.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.o
-.PHONY : Stack/739_dailyTemperatures.cpp.o
+Queue/239_maxSlidingWindow.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.o
+.PHONY : Queue/239_maxSlidingWindow.cpp.o
 
-Stack/739_dailyTemperatures.i: Stack/739_dailyTemperatures.cpp.i
+Queue/239_maxSlidingWindow.i: Queue/239_maxSlidingWindow.cpp.i
 
-.PHONY : Stack/739_dailyTemperatures.i
+.PHONY : Queue/239_maxSlidingWindow.i
 
 # target to preprocess a source file
-Stack/739_dailyTemperatures.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.i
-.PHONY : Stack/739_dailyTemperatures.cpp.i
+Queue/239_maxSlidingWindow.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.i
+.PHONY : Queue/239_maxSlidingWindow.cpp.i
 
-Stack/739_dailyTemperatures.s: Stack/739_dailyTemperatures.cpp.s
+Queue/239_maxSlidingWindow.s: Queue/239_maxSlidingWindow.cpp.s
 
-.PHONY : Stack/739_dailyTemperatures.s
+.PHONY : Queue/239_maxSlidingWindow.s
 
 # target to generate assembly for a file
-Stack/739_dailyTemperatures.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/739_dailyTemperatures.cpp.s
-.PHONY : Stack/739_dailyTemperatures.cpp.s
+Queue/239_maxSlidingWindow.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.s
+.PHONY : Queue/239_maxSlidingWindow.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/739_dailyTemperatures.o"
-	@echo "... Stack/739_dailyTemperatures.i"
-	@echo "... Stack/739_dailyTemperatures.s"
+	@echo "... Queue/239_maxSlidingWindow.o"
+	@echo "... Queue/239_maxSlidingWindow.i"
+	@echo "... Queue/239_maxSlidingWindow.s"
 .PHONY : help
 
 

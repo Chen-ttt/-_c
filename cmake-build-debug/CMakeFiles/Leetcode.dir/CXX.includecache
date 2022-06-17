@@ -6,10 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/Stack/739_dailyTemperatures.cpp
+/Users/chentt/CLionProjects/Leetcode/Queue/239_maxSlidingWindow.cpp
 iostream
 -
-stack.h
+../Stack/stack.h
 /Users/chentt/CLionProjects/Leetcode/Stack/stack.h
 
 /Users/chentt/CLionProjects/Leetcode/Stack/stack.h
