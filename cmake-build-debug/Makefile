@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Queue/239_maxSlidingWindow.o: Queue/239_maxSlidingWindow.cpp.o
+HashTable/349_intersectionHash.o: HashTable/349_intersectionHash.cpp.o
 
-.PHONY : Queue/239_maxSlidingWindow.o
+.PHONY : HashTable/349_intersectionHash.o
 
 # target to build an object file
-Queue/239_maxSlidingWindow.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.o
-.PHONY : Queue/239_maxSlidingWindow.cpp.o
+HashTable/349_intersectionHash.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.o
+.PHONY : HashTable/349_intersectionHash.cpp.o
 
-Queue/239_maxSlidingWindow.i: Queue/239_maxSlidingWindow.cpp.i
+HashTable/349_intersectionHash.i: HashTable/349_intersectionHash.cpp.i
 
-.PHONY : Queue/239_maxSlidingWindow.i
+.PHONY : HashTable/349_intersectionHash.i
 
 # target to preprocess a source file
-Queue/239_maxSlidingWindow.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.i
-.PHONY : Queue/239_maxSlidingWindow.cpp.i
+HashTable/349_intersectionHash.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.i
+.PHONY : HashTable/349_intersectionHash.cpp.i
 
-Queue/239_maxSlidingWindow.s: Queue/239_maxSlidingWindow.cpp.s
+HashTable/349_intersectionHash.s: HashTable/349_intersectionHash.cpp.s
 
-.PHONY : Queue/239_maxSlidingWindow.s
+.PHONY : HashTable/349_intersectionHash.s
 
 # target to generate assembly for a file
-Queue/239_maxSlidingWindow.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Queue/239_maxSlidingWindow.cpp.s
-.PHONY : Queue/239_maxSlidingWindow.cpp.s
+HashTable/349_intersectionHash.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.s
+.PHONY : HashTable/349_intersectionHash.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Queue/239_maxSlidingWindow.o"
-	@echo "... Queue/239_maxSlidingWindow.i"
-	@echo "... Queue/239_maxSlidingWindow.s"
+	@echo "... HashTable/349_intersectionHash.o"
+	@echo "... HashTable/349_intersectionHash.i"
+	@echo "... HashTable/349_intersectionHash.s"
 .PHONY : help
 
 

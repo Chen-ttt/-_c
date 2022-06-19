@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/Queue/239_maxSlidingWindow.cpp
+/Users/chentt/CLionProjects/Leetcode/HashTable/349_intersectionHash.cpp
+vector
+-
 iostream
 -
-../Stack/stack.h
-/Users/chentt/CLionProjects/Leetcode/Stack/stack.h
-
-/Users/chentt/CLionProjects/Leetcode/Stack/stack.h
+unordered_set
+-
 
