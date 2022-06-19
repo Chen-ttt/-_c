@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/chentt/CLionProjects/Leetcode/HashTable/349_intersectionHash.cpp" "/Users/chentt/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.o"
+  "/Users/chentt/CLionProjects/Leetcode/HashTable/1_twoSum.cpp" "/Users/chentt/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

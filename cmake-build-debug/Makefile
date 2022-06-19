@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-HashTable/349_intersectionHash.o: HashTable/349_intersectionHash.cpp.o
+HashTable/1_twoSum.o: HashTable/1_twoSum.cpp.o
 
-.PHONY : HashTable/349_intersectionHash.o
+.PHONY : HashTable/1_twoSum.o
 
 # target to build an object file
-HashTable/349_intersectionHash.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.o
-.PHONY : HashTable/349_intersectionHash.cpp.o
+HashTable/1_twoSum.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.o
+.PHONY : HashTable/1_twoSum.cpp.o
 
-HashTable/349_intersectionHash.i: HashTable/349_intersectionHash.cpp.i
+HashTable/1_twoSum.i: HashTable/1_twoSum.cpp.i
 
-.PHONY : HashTable/349_intersectionHash.i
+.PHONY : HashTable/1_twoSum.i
 
 # target to preprocess a source file
-HashTable/349_intersectionHash.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.i
-.PHONY : HashTable/349_intersectionHash.cpp.i
+HashTable/1_twoSum.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.i
+.PHONY : HashTable/1_twoSum.cpp.i
 
-HashTable/349_intersectionHash.s: HashTable/349_intersectionHash.cpp.s
+HashTable/1_twoSum.s: HashTable/1_twoSum.cpp.s
 
-.PHONY : HashTable/349_intersectionHash.s
+.PHONY : HashTable/1_twoSum.s
 
 # target to generate assembly for a file
-HashTable/349_intersectionHash.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/349_intersectionHash.cpp.s
-.PHONY : HashTable/349_intersectionHash.cpp.s
+HashTable/1_twoSum.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.s
+.PHONY : HashTable/1_twoSum.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... HashTable/349_intersectionHash.o"
-	@echo "... HashTable/349_intersectionHash.i"
-	@echo "... HashTable/349_intersectionHash.s"
+	@echo "... HashTable/1_twoSum.o"
+	@echo "... HashTable/1_twoSum.i"
+	@echo "... HashTable/1_twoSum.s"
 .PHONY : help
 
 

@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode HashTable/349_intersectionHash.cpp)
+add_executable(Leetcode HashTable/1_twoSum.cpp)
