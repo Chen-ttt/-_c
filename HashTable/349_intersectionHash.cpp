@@ -5,7 +5,7 @@ using namespace std;
 
 vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
     unordered_set<int> result;
-    // copy all elements from nums1 to nums_list without duplication
+    // copy all elements without duplication
     unordered_set<int> nums_list(nums1.begin(), nums1.end());
 
     for (int i : nums2) {
