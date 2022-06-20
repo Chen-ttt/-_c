@@ -14,7 +14,6 @@ struct ListNode* deleteDuplicates(struct ListNode* head){
     while (p->next){
         if (p->next->next && p->next->val == p->next->next->val){
             duplicate = p->next->val;
-            // printf("find same ele %d\n", duplicate);
         }
         if(p->next->val == duplicate){
             forFree = p->next;
@@ -25,7 +24,6 @@ struct ListNode* deleteDuplicates(struct ListNode* head){
             continue;
         }
         p = p->next;
-        // printf("next ele %d\n", p->val);
     }
     return dummy->next;
 }
