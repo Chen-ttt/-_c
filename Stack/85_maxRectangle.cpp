@@ -6,15 +6,15 @@ int maximalRectangle(char** matrix, int matrixSize, int* matrixColSize){
     int maxCount = 0;
     int topRow = 0, topCol = 0;
 
-    for (int row = 0; row < matrixSize; row++) {
-        for (int col = 0; col < *matrixColSize; col++) {
-            int currentNum = matrix[row][col];
-            if(currentNum==1){
-                stack[topRow++][topCol++] = currentNum;
-                maxCount++;
-            }
-        }
-    }
+//    for (int row = 0; row < matrixSize; row++) {
+//        for (int col = 0; col < *matrixColSize; col++) {
+//            int currentNum = matrix[row][col];
+//            if(currentNum==1){
+//                stack[topRow++][topCol++] = currentNum;
+//                maxCount++;
+//            }
+//        }
+//    }
 
     return *matrixColSize;
 }
