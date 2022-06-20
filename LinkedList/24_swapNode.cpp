@@ -14,12 +14,8 @@ struct ListNode* swapPairs(struct ListNode* head){
         node1->next = node2->next;
         node2->next = node1;
         temp->next = node2;
-
-        // printList(temp);
         temp = temp->next->next;
-        // printList(temp);
     }
-
     return dummy->next;
 }
 
