@@ -3,7 +3,7 @@
 
 struct ListNode* swapPairs(struct ListNode* head){
     struct ListNode *dummy = (ListNode*)malloc(sizeof(struct ListNode));
-    dummy->next = head;
+    dummy->next = head; // set dummy node
     struct ListNode* temp = dummy;
     struct ListNode *node1, *node2;
     // swap
