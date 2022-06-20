@@ -1,7 +1,7 @@
 #ifndef LEETCODE_LIST_H
 #define LEETCODE_LIST_H
 
-#endif //LEETCODE_LIST_H
+#endif
 
 struct ListNode {
     int val;
