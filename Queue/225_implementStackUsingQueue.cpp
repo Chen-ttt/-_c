@@ -67,7 +67,7 @@ bool myStackEmpty(MyStack* obj) {
     else return false;
 }
 
-void myStackFree(MyStack* obj) {
-
-}
+//void myStackFree(MyStack* obj) {
+//
+//}
 
