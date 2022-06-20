@@ -19,7 +19,7 @@ struct ListNode* removeNthFromEnd(struct ListNode* head, int n){
     for(int j = 0; j<index; j++){
         p = p->next;
     }
-    struct ListNode* q = p->next; // set node q to free memory
+    struct ListNode* q = p->next;
     p->next = q->next;
     free(q);
     return dummy->next;
