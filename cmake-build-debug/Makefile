@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-HashTable/1_twoSum.o: HashTable/1_twoSum.cpp.o
+Stack/20_validParentheses_II.o: Stack/20_validParentheses_II.cpp.o
 
-.PHONY : HashTable/1_twoSum.o
+.PHONY : Stack/20_validParentheses_II.o
 
 # target to build an object file
-HashTable/1_twoSum.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.o
-.PHONY : HashTable/1_twoSum.cpp.o
+Stack/20_validParentheses_II.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.o
+.PHONY : Stack/20_validParentheses_II.cpp.o
 
-HashTable/1_twoSum.i: HashTable/1_twoSum.cpp.i
+Stack/20_validParentheses_II.i: Stack/20_validParentheses_II.cpp.i
 
-.PHONY : HashTable/1_twoSum.i
+.PHONY : Stack/20_validParentheses_II.i
 
 # target to preprocess a source file
-HashTable/1_twoSum.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.i
-.PHONY : HashTable/1_twoSum.cpp.i
+Stack/20_validParentheses_II.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.i
+.PHONY : Stack/20_validParentheses_II.cpp.i
 
-HashTable/1_twoSum.s: HashTable/1_twoSum.cpp.s
+Stack/20_validParentheses_II.s: Stack/20_validParentheses_II.cpp.s
 
-.PHONY : HashTable/1_twoSum.s
+.PHONY : Stack/20_validParentheses_II.s
 
 # target to generate assembly for a file
-HashTable/1_twoSum.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/1_twoSum.cpp.s
-.PHONY : HashTable/1_twoSum.cpp.s
+Stack/20_validParentheses_II.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.s
+.PHONY : Stack/20_validParentheses_II.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... HashTable/1_twoSum.o"
-	@echo "... HashTable/1_twoSum.i"
-	@echo "... HashTable/1_twoSum.s"
+	@echo "... Stack/20_validParentheses_II.o"
+	@echo "... Stack/20_validParentheses_II.i"
+	@echo "... Stack/20_validParentheses_II.s"
 .PHONY : help
 
 

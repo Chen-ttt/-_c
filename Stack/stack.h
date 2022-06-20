@@ -1,7 +1,7 @@
 #ifndef LEETCODE_STACK_H
 #define LEETCODE_STACK_H
 
-#endif //LEETCODE_STACK_H
+#endif
 
 typedef struct StackNode{
     char data;
