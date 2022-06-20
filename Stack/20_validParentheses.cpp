@@ -4,7 +4,7 @@
 bool isValid(char * s){
     LinkStack *stack = (LinkStack*)malloc(sizeof(struct LinkStack));
     stack->count = 0;
-    stack->top = NULL; // IMPORTANT!!!
+    stack->top = NULL; // IMPORTANT!!! Must set to NULL.
 
     StackNodePtr forFree;
 
