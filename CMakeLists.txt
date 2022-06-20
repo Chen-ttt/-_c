@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode HashTable/202_happyNumber.cpp)
+add_executable(Leetcode HashTable/383_canConstruct.cpp)
