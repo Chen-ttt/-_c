@@ -2,9 +2,8 @@
 #include "../Stack/stack.h"
 
 int* maxSlidingWindow(int* nums, int numsSize, int k, int* returnSize){
-    int front = 0, p = 0;
+    int front = 0, p = 0, temp = 0;
     int rear = k-1;
-    int temp = 0;
     *returnSize = numsSize-k+1;
     int *result = (int*)malloc(sizeof(int)*(*returnSize));
 
