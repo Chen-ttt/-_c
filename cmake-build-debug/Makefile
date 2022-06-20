@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-HashTable/383_canConstruct.o: HashTable/383_canConstruct.cpp.o
+HashTable/242_validAnagram.o: HashTable/242_validAnagram.cpp.o
 
-.PHONY : HashTable/383_canConstruct.o
+.PHONY : HashTable/242_validAnagram.o
 
 # target to build an object file
-HashTable/383_canConstruct.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/383_canConstruct.cpp.o
-.PHONY : HashTable/383_canConstruct.cpp.o
+HashTable/242_validAnagram.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.o
+.PHONY : HashTable/242_validAnagram.cpp.o
 
-HashTable/383_canConstruct.i: HashTable/383_canConstruct.cpp.i
+HashTable/242_validAnagram.i: HashTable/242_validAnagram.cpp.i
 
-.PHONY : HashTable/383_canConstruct.i
+.PHONY : HashTable/242_validAnagram.i
 
 # target to preprocess a source file
-HashTable/383_canConstruct.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/383_canConstruct.cpp.i
-.PHONY : HashTable/383_canConstruct.cpp.i
+HashTable/242_validAnagram.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.i
+.PHONY : HashTable/242_validAnagram.cpp.i
 
-HashTable/383_canConstruct.s: HashTable/383_canConstruct.cpp.s
+HashTable/242_validAnagram.s: HashTable/242_validAnagram.cpp.s
 
-.PHONY : HashTable/383_canConstruct.s
+.PHONY : HashTable/242_validAnagram.s
 
 # target to generate assembly for a file
-HashTable/383_canConstruct.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/383_canConstruct.cpp.s
-.PHONY : HashTable/383_canConstruct.cpp.s
+HashTable/242_validAnagram.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.s
+.PHONY : HashTable/242_validAnagram.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... HashTable/383_canConstruct.o"
-	@echo "... HashTable/383_canConstruct.i"
-	@echo "... HashTable/383_canConstruct.s"
+	@echo "... HashTable/242_validAnagram.o"
+	@echo "... HashTable/242_validAnagram.i"
+	@echo "... HashTable/242_validAnagram.s"
 .PHONY : help
 
 
