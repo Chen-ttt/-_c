@@ -11,7 +11,7 @@ bool isValid(char * s){
         } else if ((top!=-1) && ((*s==']' && data[top]=='[') ||
                                   (*s=='}' && data[top]=='{') ||
                                   (*s==')' && data[top]=='('))){ // left end, pop
-            data[top] = '-'; // this step can be delete
+            // data[top] = '-'; // this step can be delete
             top--;
         } else return false; // avoid case: ']'
         s = s+1; // read next char
