@@ -7,8 +7,8 @@ int trap(int* height, int heightSize){
     int area = 0;
 
     for(int n=0; n<heightSize; n++){
-        while(height[n]>height[stack[top]]){ // increase, have water
-            int topNumber = stack[top--]; // pop top
+        while(height[n]>height[stack[top]]){ // increase, can save water
+            int topNumber = stack[top--];
             if(top==-1) break;
 
             // calculate area
