@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode Stack/20_validParentheses_II.cpp)
+add_executable(Leetcode HashTable/202_happyNumber.cpp)

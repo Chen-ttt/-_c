@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-Stack/20_validParentheses_II.o: Stack/20_validParentheses_II.cpp.o
+HashTable/202_happyNumber.o: HashTable/202_happyNumber.cpp.o
 
-.PHONY : Stack/20_validParentheses_II.o
+.PHONY : HashTable/202_happyNumber.o
 
 # target to build an object file
-Stack/20_validParentheses_II.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.o
-.PHONY : Stack/20_validParentheses_II.cpp.o
+HashTable/202_happyNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/202_happyNumber.cpp.o
+.PHONY : HashTable/202_happyNumber.cpp.o
 
-Stack/20_validParentheses_II.i: Stack/20_validParentheses_II.cpp.i
+HashTable/202_happyNumber.i: HashTable/202_happyNumber.cpp.i
 
-.PHONY : Stack/20_validParentheses_II.i
+.PHONY : HashTable/202_happyNumber.i
 
 # target to preprocess a source file
-Stack/20_validParentheses_II.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.i
-.PHONY : Stack/20_validParentheses_II.cpp.i
+HashTable/202_happyNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/202_happyNumber.cpp.i
+.PHONY : HashTable/202_happyNumber.cpp.i
 
-Stack/20_validParentheses_II.s: Stack/20_validParentheses_II.cpp.s
+HashTable/202_happyNumber.s: HashTable/202_happyNumber.cpp.s
 
-.PHONY : Stack/20_validParentheses_II.s
+.PHONY : HashTable/202_happyNumber.s
 
 # target to generate assembly for a file
-Stack/20_validParentheses_II.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Stack/20_validParentheses_II.cpp.s
-.PHONY : Stack/20_validParentheses_II.cpp.s
+HashTable/202_happyNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/202_happyNumber.cpp.s
+.PHONY : HashTable/202_happyNumber.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... Stack/20_validParentheses_II.o"
-	@echo "... Stack/20_validParentheses_II.i"
-	@echo "... Stack/20_validParentheses_II.s"
+	@echo "... HashTable/202_happyNumber.o"
+	@echo "... HashTable/202_happyNumber.i"
+	@echo "... HashTable/202_happyNumber.s"
 .PHONY : help
 
 
