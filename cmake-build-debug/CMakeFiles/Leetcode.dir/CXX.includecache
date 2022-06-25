@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/chentt/CLionProjects/Leetcode/HashTable/242_validAnagram.cpp
-vector
--
+/Users/chentt/CLionProjects/Leetcode/String/344.cpp
 iostream
--
-unordered_map
 -
 

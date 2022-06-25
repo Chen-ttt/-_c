@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.o"
+  "CMakeFiles/Leetcode.dir/String/344.cpp.o"
   "Leetcode"
   "Leetcode.pdb"
 )

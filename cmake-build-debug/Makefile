@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-HashTable/242_validAnagram.o: HashTable/242_validAnagram.cpp.o
+String/344.o: String/344.cpp.o
 
-.PHONY : HashTable/242_validAnagram.o
+.PHONY : String/344.o
 
 # target to build an object file
-HashTable/242_validAnagram.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.o
-.PHONY : HashTable/242_validAnagram.cpp.o
+String/344.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/344.cpp.o
+.PHONY : String/344.cpp.o
 
-HashTable/242_validAnagram.i: HashTable/242_validAnagram.cpp.i
+String/344.i: String/344.cpp.i
 
-.PHONY : HashTable/242_validAnagram.i
+.PHONY : String/344.i
 
 # target to preprocess a source file
-HashTable/242_validAnagram.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.i
-.PHONY : HashTable/242_validAnagram.cpp.i
+String/344.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/344.cpp.i
+.PHONY : String/344.cpp.i
 
-HashTable/242_validAnagram.s: HashTable/242_validAnagram.cpp.s
+String/344.s: String/344.cpp.s
 
-.PHONY : HashTable/242_validAnagram.s
+.PHONY : String/344.s
 
 # target to generate assembly for a file
-HashTable/242_validAnagram.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/HashTable/242_validAnagram.cpp.s
-.PHONY : HashTable/242_validAnagram.cpp.s
+String/344.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/344.cpp.s
+.PHONY : String/344.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... HashTable/242_validAnagram.o"
-	@echo "... HashTable/242_validAnagram.i"
-	@echo "... HashTable/242_validAnagram.s"
+	@echo "... String/344.o"
+	@echo "... String/344.i"
+	@echo "... String/344.s"
 .PHONY : help
 
 
