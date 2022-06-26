@@ -6,12 +6,12 @@ using namespace std;
 // 递归
 void Travel(TreeNode* p, vector<int>& result){
     if(p!=nullptr){
-        result.push_back(p->val);
         Travel(p->left, result);
+        result.push_back(p->val);
         Travel(p->right, result);
     }
 }
-vector<int> preorderTraversal(TreeNode* root) {
+vector<int> inorderTraversal(TreeNode* root) {
     vector<int> result;
     Travel(root, result);
     return result;
