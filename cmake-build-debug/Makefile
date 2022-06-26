@@ -123,32 +123,32 @@ Leetcode/fast:
 	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/build
 .PHONY : Leetcode/fast
 
-String/541_reverseString_II.o: String/541_reverseString_II.cpp.o
+Tree/144.o: Tree/144.cpp.o
 
-.PHONY : String/541_reverseString_II.o
+.PHONY : Tree/144.o
 
 # target to build an object file
-String/541_reverseString_II.cpp.o:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/541_reverseString_II.cpp.o
-.PHONY : String/541_reverseString_II.cpp.o
+Tree/144.cpp.o:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Tree/144.cpp.o
+.PHONY : Tree/144.cpp.o
 
-String/541_reverseString_II.i: String/541_reverseString_II.cpp.i
+Tree/144.i: Tree/144.cpp.i
 
-.PHONY : String/541_reverseString_II.i
+.PHONY : Tree/144.i
 
 # target to preprocess a source file
-String/541_reverseString_II.cpp.i:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/541_reverseString_II.cpp.i
-.PHONY : String/541_reverseString_II.cpp.i
+Tree/144.cpp.i:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Tree/144.cpp.i
+.PHONY : Tree/144.cpp.i
 
-String/541_reverseString_II.s: String/541_reverseString_II.cpp.s
+Tree/144.s: Tree/144.cpp.s
 
-.PHONY : String/541_reverseString_II.s
+.PHONY : Tree/144.s
 
 # target to generate assembly for a file
-String/541_reverseString_II.cpp.s:
-	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/String/541_reverseString_II.cpp.s
-.PHONY : String/541_reverseString_II.cpp.s
+Tree/144.cpp.s:
+	$(MAKE) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/Tree/144.cpp.s
+.PHONY : Tree/144.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Leetcode"
-	@echo "... String/541_reverseString_II.o"
-	@echo "... String/541_reverseString_II.i"
-	@echo "... String/541_reverseString_II.s"
+	@echo "... Tree/144.o"
+	@echo "... Tree/144.i"
+	@echo "... Tree/144.s"
 .PHONY : help
 
 
