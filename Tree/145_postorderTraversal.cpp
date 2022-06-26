@@ -6,12 +6,12 @@ using namespace std;
 // 递归
 void Travel(TreeNode* p, vector<int>& result){
     if(p!=nullptr){
-        result.push_back(p->val);
         Travel(p->left, result);
         Travel(p->right, result);
+        result.push_back(p->val);
     }
 }
-vector<int> preorderTraversal(TreeNode* root) {
+vector<int> postorderTraversal(TreeNode* root) {
     vector<int> result;
     Travel(root, result);
     return result;
@@ -22,7 +22,7 @@ vector<int> postorderTraversal(TreeNode* root) {
     vector<int> result;
     if(root==NULL) return result;
 
-    // 将逆后序反转即可得到后序
+    // 以中左右的方式遍历得到逆后序,再反转即可得到后序
     stack<TreeNode*> stackForTravel;
     stack<int> stackForSave; // 储存逆后序结果,用于反转
     TreeNode *p = root;
