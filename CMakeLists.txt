@@ -3,4 +3,4 @@ project(Leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Leetcode Tree/144.cpp)
+add_executable(Leetcode Tree/144_preorderTraversal.cpp)
