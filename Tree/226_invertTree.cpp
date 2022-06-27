@@ -17,7 +17,7 @@ TreeNode* invertTree(TreeNode* root) {
     return root;
 }
 
-// 迭代
+// 迭代 -- 前序遍历+invert
 TreeNode* invertTree(TreeNode* root) {
     if(root==NULL) return root;
 
